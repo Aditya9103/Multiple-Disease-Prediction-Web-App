@@ -23,7 +23,7 @@ The diseases currently supported by this web app include:
 
 ## Web App
 
-- [Access the Web App]() - Use the web app to predict multiple diseases.
+- [Access the Web App](https://aditya9103-multiple-disease-prediction-web-app-app-r6iy3k.streamlit.app/) - Use the web app to predict multiple diseases.
 
 ## Installation
 
